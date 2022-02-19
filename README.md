@@ -2,14 +2,14 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Jack Taixon](https://github.com/254jack)
 
 ## Description
 
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 
 ## Live Page 
-https://Owiti-charles.github.io/Quotes-app/ 
+https://254jack.github.io/Quotes-app/ 
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
@@ -41,7 +41,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Quotes-app.git```
+* git clone ```https://github.com/254jack/Quotes-app.git```
 
 * cd Quotes-app
 
@@ -60,8 +60,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [taixonj@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **Jack Taixon**
